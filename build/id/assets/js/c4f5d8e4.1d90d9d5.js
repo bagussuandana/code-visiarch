@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_visiarch=self.webpackChunkcode_visiarch||[]).push([[195],{2841:function(e,c,n){n.r(c),n.d(c,{default:function(){return u}});var t=n(7294),r=n(6775);function u(){return t.createElement(r.l_,{to:"/docs/intro"})}}}]);
